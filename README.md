@@ -25,7 +25,7 @@ Include jQuery and `jquery.fileDownload.js` before the end of the `<body>`.
 
 <!-- jquery.fileDownload -->
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src=""></script>
+<script src="https://cdn.rawgit.com/Aternus/jquery.fileDownload/7956f750/src/jquery.fileDownload.js"></script>
 <script type="text/javascript">
 // download event handlers
 </script>
