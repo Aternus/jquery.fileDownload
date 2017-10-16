@@ -1,10 +1,10 @@
 {
-    "name": "jquery-file-download",
-    "version": "1.4.6",
-    "description": "jQuery.fileDownload plugin",
-    "author": "John Culviner",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/johnculviner/jquery.fileDownload.git"
-    }
+  "name": "jquery-file-download",
+  "version": "1.4.7",
+  "description": "jQuery.fileDownload plugin",
+  "author": "Kiril Reznik",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Aternus/jquery.fileDownload.git"
+  }
 }
