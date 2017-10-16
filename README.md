@@ -34,7 +34,7 @@ Include jQuery and `jquery.fileDownload.js` before the end of the `<body>`.
 </html>
 ```
 
-### Basic Use
+### Basic Use (Download Event Handlers)
 ```js
 // redefine defaults
 $.fileDownload.defaults.httpMethod = 'POST';
